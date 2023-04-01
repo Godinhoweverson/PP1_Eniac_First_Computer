@@ -9,6 +9,7 @@ body{
     margin: 15px;
 }
 
+/*Nav Menu*/
 nav{
     display: inline-block;
     justify-content: space-around;
@@ -22,12 +23,18 @@ nav{
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    margin-left: 20px;
+    margin-left: 25px;
     margin-top: 10px;
 }
 
 a{
     color:#898989;
+    text-decoration: none;
+    transition: 0.2;
+}
+
+a:hover{
+    opacity: 0.7;
 }
 
 #nav-menu li{
@@ -35,8 +42,35 @@ a{
     list-style: none;
     display: inline-block;
     color: #898989;
-    margin-right: 20px;   
+    margin-right: 25px;   
     margin-top: 10px;
     font-size: 24px;
+    transition: 0.2;
 }
 
+li:hover{
+    opacity: 0.7;
+}
+
+/*First Section img*/
+
+#black-img{
+    background-image: url('../images/first-img.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600PX;
+    width: 100%;
+}
+
+#first-container h1{
+    color:#FFFFFF;
+    font-size: 100px;
+    text-align: center;
+    padding: 200px 0 15px 0;
+}
+
+#first-container p{
+    color:#FFFFFF;
+    text-align: center;
+
+}
