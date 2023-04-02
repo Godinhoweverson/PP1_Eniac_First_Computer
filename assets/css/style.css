@@ -135,18 +135,39 @@ hr{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    align-items: center;
 }
 
-.about-text{
+#about-text{
     background-color: red;
     width: 50%;
-    height: 100%;
-    margin: 0 10px 0 10px;
+    height: 100%;   
 }
+.third-container-left{   
+   color: #FFFFFF;
+   padding: 100px 20px 100px 20px;
+   text-align: left;
+    }
+
+.third-container-left h4{
+    padding: 10px;
+ 
+}
+
+.third-container-left h2{
+    padding: 10px;
+
+}
+
+.third-container-left p{
+padding: 10px;
+
+}
+
 
 .img-about{
     background-color: blue;
     width: 50%;
     height: 100%;
-    margin: 0 10px 0 10px;
+  
 }
