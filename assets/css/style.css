@@ -149,19 +149,22 @@ hr{
 
 .third-container-left h4{
     padding: 10px;
-    color: #898989
+    color: #898989;
+    font-family: 'Lato', sans-serif;
  
 }
 
 .third-container-left h2{
     padding: 10px;
     color: #000;
+    font-family: 'Lato', sans-serif;
 
 }
 
 .third-container-left p{
 padding: 10px;
 color: #898989;
+font-family: 'Lato', sans-serif;
 
 }
 /*learn more button*/
@@ -213,24 +216,31 @@ button:hover{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-around;
     align-items: center;
+    margin: 15px;
 
 }
 
 .right-video{
     height: 100%;
     width: 50%;
-  
+
 }
 
 
 .left-text-video{
     height: 300px;
     width: 50%;   
-    text-align: right; 
-    margin: 0 20px 0 20px;
-    padding: 20px;
+    text-align: center; 
     color:#898989;
     line-height: 1.8;
+    font-family: 'Lato', sans-serif;
+}
+.left-text-video h2{
+color:#000;
+font-family: 'Lato', sans-serif;
+font-size: 24px;
+
 }
 
