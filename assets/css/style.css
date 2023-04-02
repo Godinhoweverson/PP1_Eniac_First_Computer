@@ -51,11 +51,11 @@ li:hover{
     opacity: 0.7;
 }
 
-/*First Section img*/
+/*First container img*/
 #first-container{
     height: 600px;
 }
-
+/*background image*/
 #black-img{
     background-image: url('../images/first-img.jpeg');
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ padding: 10px;
 color: #898989;
 
 }
-
+/*learn more button*/
 .about-button{
     background-color: #000;
     color: #FFFFFF;
@@ -187,7 +187,7 @@ button:hover{
     opacity: 0.7;
 }
 
-
+/*Image*/
 .img-about{
 
     width: 50%;
@@ -205,3 +205,32 @@ button:hover{
     transform: translate(-50%, -50%);
     
 }
+/*Fourth container*/
+#fourth-container{
+   
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.right-video{
+    height: 100%;
+    width: 50%;
+  
+}
+
+
+.left-text-video{
+    height: 300px;
+    width: 50%;   
+    text-align: right; 
+    margin: 0 20px 0 20px;
+    padding: 20px;
+    color:#898989;
+    line-height: 1.8;
+}
+
