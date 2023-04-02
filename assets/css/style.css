@@ -97,7 +97,7 @@ li:hover{
 /*Second Container*/
 
 #second-container{
-    width: 100;
+    width: 100%;
     height: 400px;
     display: flex;
     justify-content: center;
@@ -139,35 +139,78 @@ hr{
 }
 
 #about-text{
-    background-color: red;
     width: 50%;
-    height: 100%;   
+    height: 100%; 
+    position: relative;  
 }
 .third-container-left{   
-   color: #FFFFFF;
-   padding: 100px 20px 100px 20px;
+   color: #898989;
+   position: absolute;
+   top: 50%;
+   left:50%;
+   transform: translate(-50%, -50%);
    text-align: left;
+   height: 200px;
+   width: 100%;
+   padding-left: 20px;
     }
 
 .third-container-left h4{
     padding: 10px;
+    color: #898989
  
 }
 
 .third-container-left h2{
     padding: 10px;
+    color: #000;
 
 }
 
 .third-container-left p{
 padding: 10px;
+color: #898989;
 
+}
+
+.about-button{
+    background-color: #000;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    border: 5px solid #000;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    transition: 0.2;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+
+}
+
+button:hover{
+    opacity: 0.7;
 }
 
 
 .img-about{
-    background-color: blue;
+
     width: 50%;
     height: 100%;
+   position: relative;
   
+}
+
+.third-container-right{
+    height: 60%;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    
 }
