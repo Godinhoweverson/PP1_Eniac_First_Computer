@@ -9,21 +9,25 @@ body{
 }
 
 /*Nav Menu*/
-nav{
-    display: inline-block;
-    justify-content: space-around;
-    align-items: center;
-    height: 8vh;
+#nav-bar{
     width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    
 }
 
 #logo{
-    float: left;
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    margin-left: 30px;
-    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+  
 }
 
 a{
@@ -36,15 +40,19 @@ a:hover{
     opacity: 0.7;
 }
 
-#nav-menu li{
-    float:right;
+
+#menu{
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+#menu li{ 
     list-style: none;
-    display: inline-block;
-    color: #898989;
-    margin-right: 30px;   
-    margin-top: 10px;
-    font-size: 18px;
     transition: 0.2;
+    display: inline-block;
+    padding: 8px;
+  
 }
 
 li:hover{
@@ -252,7 +260,7 @@ button:hover{
 color:#000;
 font-family: 'Lato', sans-serif;
 padding-bottom: 10px;
-
+text-transform: uppercase;
 }
 
 /*Footer*/
