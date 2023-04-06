@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Lato', sans-serif;
+    box-shadow: rgb(44, 62, 80) 15px 0px 15px -15px inset, rgb(44, 62, 80) -15px 0px 15px -15px inset;
 }
 
 /*Nav Menu*/
@@ -304,61 +305,53 @@ a:hover{
 
 /*About page*/
 
-#main-about{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    
-    width: 100%;
-    height: 100%;
+#main-container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:space-around;
+align-items: center;
+margin: 0 auto;
+height: 600px;
+width: 100%;
 
 }
-
-.left-colunm{
-    background-color: aqua;
-    height: 1000px;
-    width: 30%;
-}
-
-.one-img{
-    width: 100%;
-    height: 300px;
-    background-color:green;
+/* First photo*/
+.photo-left{
+    height: 60%;
+    width: 25%;
+    box-shadow: 0 0 10px 5px;
     
 }
 
-.one-img img{
+.photo-left img{
+    width: 100%;
     height: 100%;
-    width: 100%;
 }
 
-.two-img{
-    width: 100%;
-    height: 300px;
-    background-color:yellow;
-    
+/*Second phot*/
+.photo-middle{
+    height: 60%;
+    width: 25%;
+    box-shadow: 0 0 10px 5px;
 }
 
-.two-img img{
+
+.photo-middle img{
+    width: 100%;
     height: 100%;
-    width: 100%;
 }
 
-.three-img{
-    width: 100%;
-    height: 300px;
-    background-color:blue;
-   
+
+/*third photo*/
+.photo-right{
+    height: 60%;
+    width: 25%;
+    box-shadow: 0 0 10px 5px;
 }
 
-.three-img img{
+.photo-right img{
+    width: 100%;
     height: 100%;
-    width: 100%;
 }
 
-
-.right-colunm{
-    background-color: red;
-    height: 1000px;
-    width: 70%;
-}
