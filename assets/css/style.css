@@ -312,7 +312,7 @@ a:hover{
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    height: 600px;
+    height: 500px;
  
 }
 
@@ -352,7 +352,7 @@ font-family: 'Lato', sans-serif;
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    height: 600px;
+    height: 500px;
    }
 /*Left photo*/
    .left-photo{
@@ -372,6 +372,9 @@ font-family: 'Lato', sans-serif;
     height: 100%;
    }
 
+   .left-photo p{
+    padding-top: 20px;
+   }
 /*middle photo*/
 
    .middle-photo{
@@ -392,6 +395,9 @@ font-family: 'Lato', sans-serif;
     height: 100%;
    }
 
+   .middle-photo p{
+    padding-top: 20px;
+   }
 /*right photo*/
 
    .right-photo{
@@ -410,4 +416,30 @@ font-family: 'Lato', sans-serif;
    .right-photo img{
     width: 100%;
     height: 100%;
+   }
+   .right-photo p{
+    padding-top: 20px;
+   }
+
+   /*third-contaneir-about*/
+
+   #third-contaneir-about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+   }
+
+   .third-text{
+    width: 90%;
+    height: 70%;
+    text-align:justify; 
+    color:#898989;
+    line-height: 1.8;
+    font-family: 'Lato', sans-serif;
+
    }
