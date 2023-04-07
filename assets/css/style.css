@@ -243,14 +243,14 @@ button:hover{
 }
 
 .right-video{
-    height: 300px;
+    height: 60%;
     width: 40%;
 
 }
 
 
 .left-text-video{
-    height: 300px;
+    height: 60%;
     width: 40%;   
     text-align:justify; 
     color:#898989;
@@ -305,53 +305,37 @@ a:hover{
 
 /*About page*/
 
-#main-container{
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-justify-content:space-around;
-align-items: center;
-margin: 0 auto;
-height: 600px;
-width: 100%;
-
-}
-/* First photo*/
-.photo-left{
-    height: 60%;
-    width: 25%;
-    box-shadow: 0 0 10px 5px;
-    
-}
-
-.photo-left img{
+#main-container-about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
     width: 100%;
-    height: 100%;
+    height: 600px;
+ 
 }
 
-/*Second phot*/
-.photo-middle{
+.left-container-text{
+height: 60%;
+width: 40%;
+text-align:justify; 
+color:#898989;
+line-height: 1.8;
+font-family: 'Lato', sans-serif;
+}
+
+.left-container-text h2{
+    color:#000;
+}
+
+.right-container-photo{
     height: 60%;
-    width: 25%;
-    box-shadow: 0 0 10px 5px;
-}
+    width: 40%;
 
+    }
 
-.photo-middle img{
+   .right-container-photo img{
     width: 100%;
-    height: 100%;
-}
-
-
-/*third photo*/
-.photo-right{
-    height: 60%;
-    width: 25%;
-    box-shadow: 0 0 10px 5px;
-}
-
-.photo-right img{
-    width: 100%;
-    height: 100%;
-}
-
+    height: 350px;
+   }
