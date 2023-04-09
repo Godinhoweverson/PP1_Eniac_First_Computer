@@ -115,78 +115,59 @@ li:hover{
     flex-wrap: wrap;
     
 }
-
-#second-container h2{
-    color: #898989;
+.second-text-container{
+    width: 70%;
+    font-family: 'Lato', sans-serif; 
     text-align: center;
-    padding: 20px;
-    font-family: 'Lato', sans-serif;
 
+}
+#second-container h2{
+    color: #000;
 }
 
 #second-container p{
-    color: black;
-    text-align: center;
-    font-family: 'Lato', sans-serif;
-    font-size: 18px;
-    padding:0 150px 0 150px;
-    margin: 0 10px 0 10px;
+    padding-top: 20px;
+    color: #898989;
+    font-size: 20px;
 }
 
+
+  /* hr Line style*/
 hr{
     border: 1px solid #898989;
     margin: 0 20px 0 20px;
 }
 
+
+
 /*Third Container*/
 
 #third-container{
-    width: 100%;
-    height: 600px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-around;
     align-items: center;
+    width: 100%;
+    height: 600px;
 }
 
-#about-text{
-    width: 50%;
-    height: 100%; 
-    position: relative;  
-
-}
-.third-container-left{   
-   color: #898989;
-   position: absolute;
-   top: 50%;
-   left:50%;
-   transform: translate(-50%, -50%);
-   text-align: left;
-   height: 200px;
-   width: 100%;
-   padding-left: 20px;
-    }
-
-.third-container-left h4{
-    padding: 10px;
-    color: #898989;
-    font-family: 'Lato', sans-serif;
- 
-}
-
-.third-container-left h2{
-    padding: 10px;
-    color: #000;
-    font-family: 'Lato', sans-serif;
-
-}
-
-.third-container-left p{
-padding: 10px;
-color: #898989;
+.third-container-left{
+ height: 60%;
+width: 40%;
+text-align:justify; 
+color:#898989;
+line-height: 1.8;
 font-family: 'Lato', sans-serif;
-
 }
+
+
+.heading-color{
+    color: #000;
+}
+    
+
+
 /*learn more button*/
 .about-button{
     background-color: #000;
@@ -196,8 +177,7 @@ font-family: 'Lato', sans-serif;
     border: 5px solid #000;
     border-radius: 15px;
     padding: 5px 10px 5px 10px;
-    margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
     text-decoration: none;
     transition: 0.2;
     cursor: pointer;
@@ -305,6 +285,8 @@ a:hover{
 
 /*About page*/
 
+/*. Main container*/
+
 #main-container-about{
     display: flex;
     flex-direction: row;
@@ -312,11 +294,13 @@ a:hover{
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    height: 500px;
+    height: 600px;
  
 }
 
-.left-container-text{
+
+     /* Left container (text)*/
+.left-container-text{    
 height: 60%;
 width: 40%;
 text-align:justify; 
@@ -328,7 +312,7 @@ font-family: 'Lato', sans-serif;
 .left-container-text h2{
     color:#000;
 }
-
+ /*   Right container (photo). */
 .right-container-photo{
     height: 60%;
     width: 40%;
@@ -352,8 +336,10 @@ font-family: 'Lato', sans-serif;
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    height: 500px;
+    height: 600px;
    }
+
+
 /*Left photo*/
    .left-photo{
     width: 25%;
@@ -427,7 +413,7 @@ font-family: 'Lato', sans-serif;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content:space-around;
     align-items: center;
     width: 100%;
     height: 500px;
@@ -435,11 +421,12 @@ font-family: 'Lato', sans-serif;
    }
 
    .third-text{
-    width: 90%;
-    height: 70%;
+    width: 100%;
+    height: 60%;
     text-align:justify; 
     color:#898989;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
+    padding: 40px 50px 0 50px;
 
    }
