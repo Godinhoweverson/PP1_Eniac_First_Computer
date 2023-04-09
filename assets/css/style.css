@@ -631,6 +631,56 @@ input[type="submit"] {
     iframe {
         width: 450px;
     }
+
+    /* about.html */
+
+    #main-container-about{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 10% 30px 0 30px;
+        height: 800px;
+        width: 100%;
+
+    }
+
+    .left-container-text{
+        width: fit-content;
+        height: fit-content;
+        padding-bottom: 60px;
+    }
+
+    .right-container-photo{
+        width: fit-content;
+        height: 40%;
+        margin: 0 auto;
+    }
+
+    .right-container-photo img{
+        width: 512px;
+    }
+
+    /* Second section about */
+   
+     #second-contaneir-about{
+        height: 600px;
+        padding-top: 30px;
+     }
+
+    .photo-size{
+      height: 30%;
+
+    }
+    .font {
+     font-size: 15px;
+    }
+
+
+
+
+
+
 }
 
 @media screen and (max-width: 480px){
