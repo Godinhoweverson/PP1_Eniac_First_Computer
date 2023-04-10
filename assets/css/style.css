@@ -1251,7 +1251,7 @@ input[type="submit"] {
     /* Main section about */
      .left-container-text{
         width: 100%;
-        height: 60%;
+        height: 50%;
         padding: 20px 5px 0 5px;
      }
     #main-container-about h2 {
@@ -1263,17 +1263,17 @@ input[type="submit"] {
         font-size: 10px;
     }
     .right-container-photo { 
-        height: 40%;
+        height:50%;
         width: 100%;
         border: none;
-        padding-right: 10px;
+        padding:0;
     }
 
 
 .right-container-photo img{
 
    width: 100%;
-   height: 60%;
+   height: 70%;
     
 }
     /* Second section about */
@@ -1359,9 +1359,11 @@ input[type="submit"] {
        /* Third contaneir about */
 
      #third-contaneir-about{
-    height: 600px;
+    height: 500px;
+    padding: 0;
 }
 .third-text{
+    height: 100%;
     padding: 0 25px 0 25px;
 }
        #third-contaneir-about p{
@@ -1389,9 +1391,11 @@ input[type="submit"] {
         width:100%;
         padding: 10px;
        }
-
+        .big-box{
+        width: 100%;
+        }
        textarea{
-        width:200px;
+        width:100%;
 
        }
 
