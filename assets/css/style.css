@@ -228,6 +228,7 @@ button:hover {
 .right-video {
     height: 60%;
     width: 40%;
+    padding-top: 20px;
 
 }
 
@@ -544,6 +545,7 @@ input[type="submit"] {
 #agreement-label {
     display: inline-block;
     width: auto;
+    padding: 5px;
 }
 
 /* Media query 1200px*/
