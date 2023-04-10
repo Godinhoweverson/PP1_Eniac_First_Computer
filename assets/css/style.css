@@ -1233,12 +1233,168 @@ input[type="submit"] {
 
     .left-text-video{
         height: 50%;
-        padding-top: 0;
+        padding: 0 20px 0 20px;
     }
 
     #fourth-container p {
         font-size: 10px;
 
     }
+    /* Footer */
+    .copyright {
+        font-size: 11px;
+       
+    }
+      /* about.html */
+
+
+    /* Main section about */
+     .left-container-text{
+        width: 100%;
+        height: 60%;
+        padding: 20px 5px 0 5px;
+     }
+    #main-container-about h2 {
+        text-align: center;
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    #main-container-about p{
+        font-size: 10px;
+    }
+    .right-container-photo { 
+        height: 40%;
+        width: 100%;
+        border: none;
+        padding-right: 10px;
+    }
+
+
+.right-container-photo img{
+
+   width: 100%;
+   height: 60%;
+    
+}
+    /* Second section about */
+
+   #second-contaneir-about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto;
+    height: 800px;
+
+   }
+
+   .left-photo {
+    height:30%;
+    width:40%;
+    border: none;
+    padding: 0;
+    
+    
+   }
+
+   .left-photo img{
+    height: 50%;
+   }
+
+   .left-photo p{
+    font-size: 10px;
+    line-height: normal;
+    text-align: center;
+    padding: 0;
+
+   }
+
+   /* Middle photo */
+
+   .middle-photo {
+    height:30%;
+    width:40%;
+    border: none;
+    padding: 0;
+    
+    
+   }
+
+   .middle-photo img{
+    height: 50%;
+   }
+
+   .middle-photo p{
+    font-size: 10px;
+    line-height: normal;
+    text-align: center;
+    padding: 0;
+
+   }
+
+      /* Right photo */ 
+
+      .right-photo {
+        height:30%;
+        width:40%;
+        border: none;
+        padding: 0;
+        
+        
+       }
+    
+       .right-photo img{
+        height: 50%;
+       }
+    
+       .right-photo p{
+        font-size: 10px;
+        line-height: normal;
+        text-align: center;
+        padding: 0;
+    
+       }
+
+       /* Third contaneir about */
+
+     #third-contaneir-about{
+    height: 600px;
+}
+.third-text{
+    padding: 0 25px 0 25px;
+}
+       #third-contaneir-about p{
+        font-size: 10px;
+
+       }
+
+       /* Form Sign up */
+
+       #main-container-signup{
+        height: 100%;
+        width: 100%;
+        padding: 20px;
+       }
+
+       #box-container-form h1{
+        font-size: 1rem;
+       }
+       input, label, textarea{
+        font-size: 0.6rem;
+       }
+
+       #box-container-form{
+        height: 90%;
+        width:100%;
+        padding: 10px;
+       }
+
+       textarea{
+        width:200px;
+
+       }
+
+    
 }
 }
