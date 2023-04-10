@@ -452,18 +452,21 @@ a:hover {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    
-  
+
+
 }
 
-input, label, textarea {
-display: block;
-width: 100%;
+input,
+label,
+textarea {
+    display: block;
+    width: 100%;
 }
 
 
 
-input:focus, label:focus{
+input:focus,
+label:focus {
     outline: none;
 }
 
@@ -478,24 +481,24 @@ input:focus, label:focus{
     padding: 25px;
 }
 
-#box-container-form h1{
+#box-container-form h1 {
     text-align: center;
     font-size: 1.6rem;
     padding-bottom: 25px;
 }
 
-#form-register{
+#form-register {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-.full-box{
+.full-box {
     flex: 1 1 100%;
     position: relative;
 }
 
-.half-box{
+.half-box {
     flex: 1 1 45%;
     position: relative;
 }
@@ -503,28 +506,30 @@ input:focus, label:focus{
 .space {
     margin-right: 2.5%;
 }
-label{
+
+label {
     font-weight: bold;
     font-size: .8rem;
 }
-input{
+
+input {
     border-bottom: 2px solid #000;
     padding: 10px;
     font-size: .9rem;
     margin-bottom: 30px;
 }
 
-textarea{
+textarea {
     width: 450px;
     height: 80px;
     border: 1px solid #000;
     margin-top: 10px;
     margin-bottom: 30px;
-   }
+}
 
-   textarea:focus{
+textarea:focus {
     border-color: #000;
-   }
+}
 
 input[type="submit"] {
     background-color: #000;
@@ -535,23 +540,24 @@ input[type="submit"] {
 }
 
 
-#agreement, #agreement-label {
+#agreement,
+#agreement-label {
     display: inline-block;
     width: auto;
 }
 
-/* Media query */
+/* Media query 1200px*/
 
-@media screen and (max-width: 1200px){
- 
+@media screen and (max-width: 1200px) {
+
     /* third-container */
 
-    #third-container{
+    #third-container {
         max-width: 100%;
-        
+
     }
 
-    #fourth-container{
+    #fourth-container {
         width: 100%;
     }
 
@@ -562,71 +568,75 @@ input[type="submit"] {
     }
 }
 
-@media screen and (max-width: 800px){
-    
+
+/* Media query 800px */
+
+@media screen and (max-width: 800px) {
+
     /*First container */
-    #first-container{
+    #first-container {
         width: 100%;
     }
-    
+
     /*Third container*/
 
-    #third-container{
+    #third-container {
         display: block;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
         padding: 10% 30px 0 30px;
         height: 800px;
-         
+
     }
 
-    .third-container-left{
+    .third-container-left {
         width: 100%;
         height: 40%;
-        text-align: center;   
+        text-align: center;
     }
 
-    .third-container-image{
+    .third-container-image {
         width: 70%;
         height: 40%;
         margin: 0 auto;
-      
-    }
-     
 
-     /*Fourth containeir*/
-     
-     #fourth-container{
+    }
+
+
+    /*Fourth containeir*/
+
+    #fourth-container {
         display: block;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
         height: 800px;
         width: 100%;
-    
-   
-     
-     }
 
-     .right-video{
+
+
+    }
+
+    .right-video {
         height: 40%;
         width: 100%;
-        padding:80px 0 40px 22%;
+        padding: 80px 0 40px 22%;
         margin-bottom: 10px;
-       
 
-     }
 
-     .left-text-video{
+    }
+
+    .left-text-video {
         width: 100%;
         height: 40%;
-        padding:40px 50px 20px 50px;
-        text-align: justify;    
-     }
-     .left-text-video h2{
+        padding: 40px 50px 20px 50px;
+        text-align: justify;
+    }
+
+    .left-text-video h2 {
         text-align: center;
-     }
+    }
 
     iframe {
         width: 450px;
@@ -634,7 +644,7 @@ input[type="submit"] {
 
     /* about.html */
 
-    #main-container-about{
+    #main-container-about {
         display: block;
         justify-content: center;
         align-items: center;
@@ -645,27 +655,27 @@ input[type="submit"] {
 
     }
 
-    .left-container-text{
+    .left-container-text {
         width: fit-content;
         height: fit-content;
         padding: 0 30px 60px 30px;
     }
 
-    .right-container-photo{
+    .right-container-photo {
         width: fit-content;
         height: 45%;
         margin: 0 auto;
-       
+
     }
 
-    .right-container-photo img{
+    .right-container-photo img {
         width: 512px;
         padding-bottom: 40px;
     }
 
     /* Second section about */
-   
-     #second-contaneir-about{
+
+    #second-contaneir-about {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
@@ -674,107 +684,210 @@ input[type="submit"] {
         height: 500px;
         padding-top: 100px;
 
-     }
+    }
 
-    .photo-size{
-      height: 30%;
+    .photo-size {
+        height: 30%;
 
     }
+
     .font {
-     font-size: 15px;
-    }
-    #third-contaneir-about{
-   
-    }
-    .third-text{
-     height: fit-content;
-     padding-top: 0;
+        font-size: 15px;
     }
 
+    #third-contaneir-about {}
 
-
-
-
+    .third-text {
+        height: fit-content;
+        padding-top: 0;
+    }
 
 }
 
-@media screen and (max-width: 480px){
-     /* nav menu */
-     #logo{
-        font-size: 18px;
-     }
 
-     #menu{
+/* Media query 480px */
+
+@media screen and (max-width: 480px) {
+
+    /* nav menu */
+    #logo {
+        font-size: 18px;
+    }
+
+    #menu {
         font-size: 15px;
-     }
+    }
+
     /* First container*/
 
-    #first-text{
-        margin-top:200px;
+    #first-text {
+        margin-top: 200px;
     }
 
 
-    #first-text h1{ 
+    #first-text h1 {
         font-size: 90px;
     }
-     
-    #first-text p{
-      font-size: 8px;
-    }
-    
-    #second-container h2{
-        font-size: 19px;
-   
+
+    #first-text p {
+        font-size: 8px;
     }
 
-    #second-container p{
+    #second-container h2 {
+        font-size: 19px;
+    }
+
+    #second-container p {
         font-size: 14px;
-        
+
     }
 
     /*Third container*/
 
-    .third-container-left{
-        padding:40px 5px 0 5px;
+    .third-container-left {
+        padding: 40px 5px 0 5px;
 
     }
 
-    #third-container h2{
+    #third-container h2 {
         font-size: 19px;
-        
+
     }
 
 
-    #third-container p{
-        font-size: 14px;  
-        
+    #third-container p {
+        font-size: 14px;
+
     }
 
-    .about-button{
+    .about-button {
         font-size: 14px;
         padding: 3px 8px 3px 8px;
-        margin-top: 15px; 
+        margin-top: 15px;
     }
 
-    .third-container-image img{
+    .third-container-image img {
         width: 100%;
         height: 80%;
     }
+
     /* fourth-container */
 
-    #fourth-container p{
+    #fourth-container p {
         font-size: 14px;
-        
+
     }
-    .right-video{
+
+    .right-video {
         padding-left: 80px;
         padding-right: 50px;
     }
-    iframe{
-        width:auto;
-       
+
+    iframe {
+        width: auto;
+
+    }
+
+    /* about.html */
+
+
+    /* Main section about */
+
+    #main-container-about h2 {
+        text-align: center;
+        font-size: 19px;
+        padding-bottom: 10px;
+    }
+    #main-container-about p{
+        font-size: 14px;
+    }
+    .right-container-photo { 
+        height: 60%;
+        width: 80%;
+        border: none;
+        padding-right: 10px;
     }
 
 
+.right-container-photo img{
 
+   width: 100%;
+   height: 60%;
+    
+}
+    /* Second section about */
+
+   #second-contaneir-about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto;
+    height: 800px;
+
+   }
+
+   .left-photo {
+    height:30%;
+    width:40%;
+    border: none;
+    
+    
+   }
+
+   .left-photo img{
+    height: 50%;
+   }
+
+   .left-photo p{
+    font-size: 10px;
+    line-height: normal;
+    text-align: center;
+
+   }
+
+   /* Middle photo */
+
+   .middle-photo {
+    height:30%;
+    width:40%;
+    border: none;
+    
+    
+   }
+
+   .middle-photo img{
+    height: 50%;
+   }
+
+   .middle-photo p{
+    font-size: 10px;
+    line-height: normal;
+    text-align: center;
+
+   }
+
+      /* Right photo */ 
+
+      .right-photo {
+        height:30%;
+        width:40%;
+        border: none;
+        
+        
+       }
+    
+       .right-photo img{
+        height: 50%;
+       }
+    
+       .right-photo p{
+        font-size: 10px;
+        line-height: normal;
+        text-align: center;
+    
+       }
+
+       
 }
