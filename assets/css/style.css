@@ -695,7 +695,6 @@ input[type="submit"] {
         font-size: 15px;
     }
 
-    #third-contaneir-about {}
 
     .third-text {
         height: fit-content;
@@ -889,5 +888,31 @@ input[type="submit"] {
     
        }
 
-       
+       /* Third contaneir about */
+
+     #third-contaneir-about{
+    height: 600px;
+}
+
+       #third-contaneir-about p{
+        font-size: 14px;
+
+       }
+
+       /* Form Sign up */
+
+       #main-container-signup{
+        height: 600px;
+        width: 100%;
+       }
+
+       #box-container-form{
+        height: 80%;
+        width:75%
+       }
+
+       textarea{
+        width:300px;
+
+       }
 }
