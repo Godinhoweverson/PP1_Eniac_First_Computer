@@ -9,4 +9,4 @@ This website provides information about the history and workings of ENIAC, as we
 
 
 
-![Eniac-responsive](https://user-images.githubusercontent.com/128285446/231278408-6f358bf1-0c8b-4898-88d5-c3178d3e766c.jpeg w=200px)
+![Eniac-responsive](https://user-images.githubusercontent.com/128285446/231278408-6f358bf1-0c8b-4898-88d5-c3178d3e766c.jpeg)
