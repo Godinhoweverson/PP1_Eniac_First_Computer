@@ -133,14 +133,14 @@ li:hover {
 
 #second-container p {
     padding-top: 20px;
-    color: #898989;
+    color: #545454;
     font-size: 20px;
 }
 
 
 /* hr Line style*/
 hr {
-    border: 1px solid #898989;
+    border: 1px solid #545454;
     margin: 0 20px 0 20px;
 }
 
@@ -162,7 +162,7 @@ hr {
     height: 60%;
     width: 40%;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 }
@@ -235,7 +235,7 @@ button:hover {
     height: 60%;
     width: 40%;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 }
@@ -265,7 +265,7 @@ button:hover {
 
 
 .social-media a {
-    color: #898989;
+    color:#545454;
     text-decoration: none;
     padding: 15px;
     margin-bottom: 20px;
@@ -280,7 +280,7 @@ a:hover {
 .copyright {
     margin-top: 15px;
     padding: 10px;
-    color: #898989;
+    color: #545454;
     text-align: center;
     font-family: 'Lato', sans-serif;
 }
@@ -306,7 +306,7 @@ a:hover {
     height: 60%;
     width: 40%;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 }
@@ -351,7 +351,7 @@ a:hover {
     border-top: 1px solid #000;
     border-right: 1px solid #000;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 
@@ -375,7 +375,7 @@ a:hover {
     border-top: 1px solid #000;
     border-right: 1px solid #000;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 
@@ -399,7 +399,7 @@ a:hover {
     border-top: 1px solid #000;
     border-right: 1px solid #000;
     text-align: justify;
-    color: #898989;
+    color:#545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
 
@@ -431,7 +431,7 @@ a:hover {
     width: 100%;
     height: 60%;
     text-align: justify;
-    color: #898989;
+    color: #545454;
     line-height: 1.8;
     font-family: 'Lato', sans-serif;
     padding: 40px 50px 0 50px;
@@ -532,7 +532,7 @@ textarea:focus {
 
 input[type="submit"] {
     background-color: #000;
-    color: #898989;
+    color: #545454;
     border: none;
     height: 40px;
     cursor: pointer;
