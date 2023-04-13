@@ -5,7 +5,7 @@ This website is history about the first computer.
 ## About
 
 <p align="center">ENIAC (Electronic Numerical Integrator and Computer) was the first general-purpose electronic computer. It was designed and built during World War II by John Mauchly and J. Presper Eckert of the University of Pennsylvania.
-This website provides information about the history and workings of ENIAC, as well as interactive simulations that allow users to explore its design and operation.</p>
+This website provides information about the history and workings of ENIAC.</p>
 
 
 
