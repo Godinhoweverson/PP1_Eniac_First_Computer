@@ -21,9 +21,27 @@ Finally, the project can serve as a starting point for further research and expl
 
 - The website has a simple and clean design, with a consistent color scheme and typography. The design is not distracting, and it allows the user to focus on the content of the website.
 
+- The website is easy to navigate, with a clear menu at the top of the page that allows the user to quickly access different sections of the website.
+
+- The content of the website is well-organized, with headings and subheadings that make it easy to scan and find specific information. The use of images and videos also helps to break up the text and provide visual interest.
+
+- The website is responsive and works well on both desktop and mobile devices. The text and images scale appropriately, and the website is easy to use on smaller screens.
+
+## Design
+
 ### Color scheme
 
-<img src="assets/images/color-scheme.png" alt="Color scheme">
+<img src="documentation/images/color-scheme.png" alt="Color scheme">
+
+### Typography
+
+- Google Fonts were used to import 'Lato', sans-serif into style.css.
+- The text on the website is well-justified, which means that it is aligned evenly on both sides, creating a clean and professional appearance.
+
+
+
+
+
 
 
 
