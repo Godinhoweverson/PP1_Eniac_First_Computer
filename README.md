@@ -126,16 +126,16 @@ The main content of the home page is organized into sections, each with a headin
 
 - This section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
 
-<img src="documentation/images/third-section" alt="Third-section">
+<img src="documentation/images/third-section.jpg" alt="Third-section">
 
 - Thi section provide information about the specific goal the eniac was designed, The section includes image and a button that access to about page on the website.</p>
 
-<img src="documentation/images/fourth-section" alt="fourth-section">
+<img src="documentation/images/fourth-section.jpg" alt="fourth-section">
 
-- The third section on left, side there is a video of University of Pennsylvania Brief History of the ENIAC.
+- This section on left, there is a video of University of Pennsylvania  about History of the ENIAC.
 One right, there is a text that provide information who created and specifications about eniac.
 
-<img src="documentation/images/first-container.jpg" alt="first-container-title">
+
 
 - **Title for feature #3**
 
