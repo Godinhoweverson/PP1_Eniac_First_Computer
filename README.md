@@ -131,12 +131,11 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 
 
 
--  This section below provide information about the specific goal the eniac was designed, includes an image and a button "READ MORE" that interact with ABOUT PAGE on the website.
+-  This section below provide information about the specific goal the ENIAC was designed, includes an image and a button "READ MORE" that interact with ABOUT PAGE on the website.
 
 <img src="documentation/images/third-section.jpg" alt="Third-section">
 
-- This section there is a video of University of Pennsylvania  about History of the ENIAC and
- there is a text that provide information who created and specifications about eniac.
+-  This section there are a video of University of Pennsylvania  and also a text explaining about ENIAC.
 
 <img src="documentation/images/fourth-section.jpg" alt="fourth-section">
 
