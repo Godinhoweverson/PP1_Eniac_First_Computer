@@ -157,10 +157,15 @@ On the ABOUT PAGE we have an explanatory text about ENIAC followed by four image
 
 <img src="documentation/images/about.jpeg" alt="about-content">
 
-
-<img src="documentation/images/about-image.jpeg" alt="images-programers">
+<img src="documentation/images/about-images.jpeg" alt="images-programers">
 
 <img src="documentation/images/about-text.jpeg" alt="text">
+
+### Sign up
+
+On Sign up page the users can subscribe to receive more history content.
+
+<img src="documentation/images/signup.jpeg" alt="text">
 
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
