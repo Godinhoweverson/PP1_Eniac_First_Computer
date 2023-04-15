@@ -131,7 +131,7 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 
 
 
-- Thi section provide information about the specific goal the eniac was designed, The section includes image and a button that access to about page on the website.</p>
+-  This section below provide information about the specific goal the eniac was designed, includes an image and a button "READ MORE" that interact with ABOUT PAGE on the website.
 
 <img src="documentation/images/third-section.jpg" alt="Third-section">
 
@@ -147,7 +147,7 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 
 
 <img src="documentation/images/footer.jpeg" alt="footer-section">
-
+</p>
 
 
 
