@@ -115,7 +115,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 <img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
 
-## Home page
+## Home Page
 
 The main content of the home page is organized into sections, each with a heading and some text describing the section's content.
 
@@ -150,7 +150,18 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 
 
 
-- **Title for feature #3**
+### About Page
+
+On the ABOUT PAGE we have an explanatory text about ENIAC followed by four images with descriptions.
+
+
+<img src="documentation/images/about.jpeg" alt="about-content">
+
+
+<img src="documentation/images/about-image.jpeg" alt="images-programers">
+
+<img src="documentation/images/about-text.jpeg" alt="text">
+
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
