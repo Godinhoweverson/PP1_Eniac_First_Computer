@@ -116,32 +116,40 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 <img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
 
 ## Home page
-<p>
-The home page of the website features a title "ENIAC: The First General-Purpose Electronic Digital Computer" overlaid on top of it. 
-
-<hr>
 
 The main content of the home page is organized into sections, each with a heading and some text describing the section's content.
-<hr>
+
+The home page of the website features a title "ENIAC: The First General-Purpose Electronic Digital Computer" overlaid on top of it. 
+
 <img src="documentation/images/first-container.jpg" alt="title-ENIAC">
 
 
-<hr>
+
 - This section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
-<hr>
+
 <img src="documentation/images/introduction.jpg" alt="title-ENIAC">
 
 
-<hr>
+
 - Thi section provide information about the specific goal the eniac was designed, The section includes image and a button that access to about page on the website.</p>
-<hr>
+
 <img src="documentation/images/third-section.jpg" alt="Third-section">
 
-<hr>
-- This section on left, there is a video of University of Pennsylvania  about History of the ENIAC.
-One right, there is a text that provide information who created and specifications about eniac.
-<hr>
+- This section there is a video of University of Pennsylvania  about History of the ENIAC and
+ there is a text that provide information who created and specifications about eniac.
+
 <img src="documentation/images/fourth-section.jpg" alt="fourth-section">
+
+### Footer
+
+- The footer is fixed to bottom all pages.
+- Links to the main social media.
+
+
+<img src="documentation/images/footer.jpeg" alt="footer-section">
+
+
+
 
 - **Title for feature #3**
 
