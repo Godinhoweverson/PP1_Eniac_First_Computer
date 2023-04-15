@@ -106,7 +106,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Nav menu**
+## Navigation Bar
 
  - Navbar include links to the websites home page, About page, Contact page and a Eniac logo.
  - On left, Eniac logo when is select is will back to home page.
@@ -114,11 +114,17 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 <img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
 
-- **Title for feature #2**
+## Home page
+<p align="justify">
+The home page of the website features a title "ENIAC: The First General-Purpose Electronic Digital Computer" overlaid on top of it. 
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+The main content of the home page is organized into sections, each with a heading and some text describing the section's content. 
+- The first section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
 
-![screenshot](documentation/feature02.png)
+- The second section on left, there are 
+ titled "About the ENIAC", and it provides an overview of the computer's design and operation, as well as its historical context.</p>
+
+<img src="documentation/images/first-container.jpg" alt="first-container-title">
 
 - **Title for feature #3**
 
