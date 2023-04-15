@@ -3,14 +3,16 @@ This website is history about the first computer.
 
 ## About
 
-<p align="center">ENIAC (Electronic Numerical Integrator and Computer) was the first general-purpose electronic computer. It was designed and built during World War II by John Mauchly and J. Presper Eckert of the University of Pennsylvania.
+<p align="justify">ENIAC (Electronic Numerical Integrator and Computer) was the first general-purpose electronic computer. It was designed and built during World War II by John Mauchly and J. Presper Eckert of the University of Pennsylvania.
 This website provides information about the history and workings of ENIAC.</p>
 
-<p align="center">By providing information about the Eniac computer, the project can be useful to its target audience in several ways. Firstly, it can provide historical context and background information on the development of computers. This can be particularly useful for students and researchers in computer science and related fields who may want to understand the evolution of computer technology.
+<p align="justify">By providing information about the Eniac computer, the project can be useful to its target audience in several ways. 
 
-Secondly, the project can help to promote awareness and appreciation of the Eniac computer, which is an important milestone in the history of computing. By making information about the Eniac computer easily accessible, the project can help to ensure that this important part of computing history is not forgotten.
+- Firstly, it can provide historical context and background information on the development of computers. This can be particularly useful for students and researchers in computer science and related fields who may want to understand the evolution of computer technology.
 
-Finally, the project can serve as a starting point for further research and exploration into the Eniac computer and its impact on the development of computing. The website includes links to additional resources, such as images and videos, which can be useful for those interested in learning more about the Eniac and related topics.</p>
+- Secondly, the project can help to promote awareness and appreciation of the Eniac computer, which is an important milestone in the history of computing. By making information about the Eniac computer easily accessible, the project can help to ensure that this important part of computing history is not forgotten.
+
+- Finally, the project can serve as a starting point for further research and exploration into the Eniac computer and its impact on the development of computing. The website includes links to additional resources, such as images and videos, which can be useful for those interested in learning more about the Eniac and related topics.</p>
 
 
 
@@ -31,13 +33,13 @@ Finally, the project can serve as a starting point for further research and expl
 
 ### Color scheme
 
-I used <a href="https://coolors.co/000000-545454-ffffff">Coolors.co</a> to generate my colour palette.
+I used <a href="https://coolors.co/000000-545454-ffffff" target="_blank">Coolors.co</a> to generate my colour palette.
 
 <img src="documentation/images/color-scheme.png" alt="Color scheme">
 
 ### Typography
 
-- <a href="https://fonts.google.com/">Google Fonts</a> were used to import 'Lato', sans-serif into style.css.
+- <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> were used to import 'Lato', sans-serif into style.css.
 - The text on the website is well-justified, which means that it is aligned evenly on both sides, creating a clean and professional appearance.
 
 
@@ -104,11 +106,13 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Nav menu**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+ - Navbar include links to the websites home page, About page, Contact page and a Eniac logo.
+ - On left, Eniac logo when is select is will back to home page.
+ - On right, there are four elements clearly state the content of each page.
 
-![screenshot](documentation/feature01.png)
+<img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
 
 - **Title for feature #2**
 
