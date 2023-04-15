@@ -118,11 +118,22 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 <p align="justify">
 The home page of the website features a title "ENIAC: The First General-Purpose Electronic Digital Computer" overlaid on top of it. 
 
-The main content of the home page is organized into sections, each with a heading and some text describing the section's content. 
-- The first section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
+<img src="documentation/images/first-container.jpg" alt="title-ENIAC">
 
-- The second section on left, there are 
- titled "About the ENIAC", and it provides an overview of the computer's design and operation, as well as its historical context.</p>
+The main content of the home page is organized into sections, each with a heading and some text describing the section's content.
+
+<img src="documentation/images/introduction.jpg" alt="title-ENIAC">
+
+- This section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
+
+<img src="documentation/images/third-section" alt="Third-section">
+
+- Thi section provide information about the specific goal the eniac was designed, The section includes image and a button that access to about page on the website.</p>
+
+<img src="documentation/images/fourth-section" alt="fourth-section">
+
+- The third section on left, side there is a video of University of Pennsylvania Brief History of the ENIAC.
+One right, there is a text that provide information who created and specifications about eniac.
 
 <img src="documentation/images/first-container.jpg" alt="first-container-title">
 
