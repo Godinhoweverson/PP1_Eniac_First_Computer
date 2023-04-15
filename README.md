@@ -23,7 +23,7 @@ Finally, the project can serve as a starting point for further research and expl
 
 ### Color scheme
 
-![nome desejado da imagem](assets/images/color.scheme.png)
+<img src="assets/images/color-scheme.png" alt="Color scheme">
 
 
 
