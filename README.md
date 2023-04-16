@@ -90,26 +90,13 @@ Repeat for any addition wireframe pages you have.
 
 ## Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+The website is comprised of three pages, all accessible from the navigation menu (Home, About and Contact us). 
 
 ### Existing Features
 
 ## Navigation Bar
 
- - Navbar include links to the websites home page, About page, Contact page and a Eniac logo.
+ - Navbar include links to the websites Home page, About page, Contact page and a Eniac logo.
  - On left, Eniac logo when is select is will back to home page.
  - On right, there are four elements clearly state the content of each page.
 
