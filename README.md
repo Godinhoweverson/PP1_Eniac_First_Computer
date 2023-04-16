@@ -202,7 +202,7 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://godinhoweverson.github.io/PP1_Eniac_First_Computer)
+The live link can be found [here](https://godinhoweverson.github.io/PP1_Eniac_First_Computer/)
 
 ### Local Deployment
 
