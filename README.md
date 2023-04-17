@@ -34,7 +34,8 @@ This website provides information about the history and workings of ENIAC.</p>
 
 ### Color scheme
 
-I used <a href="https://coolors.co/000000-545454-ffffff" target="_blank">Coolors.co</a> to generate my colour palette.
+I used <a href="https://coolors.co/000000-545454-999999-ffffff" target="_blank">Coolors.co</a> to generate my colour palette.
+
 
 <img src="documentation/images/color-scheme.png" alt="Color scheme">
 
