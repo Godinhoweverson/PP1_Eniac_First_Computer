@@ -583,8 +583,8 @@ input[type="submit"] {
     /*Third container*/
 
     #third-container {
-        display:flex;
-        flex-direction:column;
+       display:flex;
+       flex-direction:column;
        flex-wrap:wrap;
        justify-content:space-around;
        height:800px;
@@ -599,8 +599,8 @@ input[type="submit"] {
     }
 
     .third-container-image {
-        height:40%;
-        width:80%;
+        height: auto;           
+        width:auto;
      
 
     }
