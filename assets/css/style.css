@@ -175,20 +175,20 @@ hr {
 
 
 /*learn more button*/
-.about-button {
+#about-button {
    
     background-color: #000;
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 12x;
     font-family: 'Lato', sans-serif;
-    border: 5px solid #000;
-    border-radius: 15px;
-    padding: 5px 10px 5px 10px;
+    border-radius: 1px;
+    padding: 0 10px 0 10px;
     margin-top: 20px;
     text-decoration: none;
     cursor: pointer;
     display: inline-block;
-    text-align: center;
+    text-align: center; 
+    width: 6rem;
 }
 
 
@@ -985,10 +985,11 @@ input[type="submit"] {
 
     }
 
-    .about-button {
-        font-size: 14px;
+    #about-button {
+        font-size: 2rem;
         padding: 3px 8px 3px 8px;
         margin-top: 15px;
+        width: 5rem;
     }
 
     .third-container-image img {
@@ -1208,7 +1209,7 @@ input[type="submit"] {
     
         }
     
-        .about-button {
+        #about-button {
             font-size: 8px;
             margin:10px;
             
