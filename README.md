@@ -99,7 +99,7 @@ The website is comprised of three pages, all accessible from the navigation menu
 
  - Navbar include links to the websites Home page, About page, Contact page and a Eniac logo.
  - On left, Eniac logo when is select is will back to home page.
- - On right, there are four elements clearly state the content of each page.
+ - On right, there are three elements clearly state the content of each page.
 
 <img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
 
