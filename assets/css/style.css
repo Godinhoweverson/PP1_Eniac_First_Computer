@@ -251,7 +251,7 @@ button:hover {
 
 /*Footer*/
 
-#footer {
+footer {
     width: 100%;
     height: 200px;
     margin: 0 auto;
@@ -1227,7 +1227,10 @@ input[type="submit"] {
 
           /* fourth-container */
 
-   
+   #fourth-container{
+    height: auto;
+    width: auto;
+   }
 
     .right-video {
         padding: 0;
@@ -1250,6 +1253,13 @@ input[type="submit"] {
 
     }
     /* Footer */
+
+    footer{
+        height:150px;
+    }
+    .social-media a{
+        padding: 5px;
+    }
     .copyright {
         font-size: 12px;
        
@@ -1368,7 +1378,7 @@ input[type="submit"] {
        /* Third contaneir about */
 
      #third-contaneir-about{
-    height: 500px;
+    height: 100%;
     padding: 0;
 }
 .third-text{
@@ -1396,7 +1406,7 @@ input[type="submit"] {
        }
 
        #box-container-form{
-        height: 90%;
+        height: 100%;
         width:100%;
         padding: 10px;
        }
