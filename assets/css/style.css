@@ -198,7 +198,7 @@ button:hover {
 /*Image*/
 
 .third-container-image {
-    height: 60%;
+    height: auto;
     width: 40%;
 
 }
