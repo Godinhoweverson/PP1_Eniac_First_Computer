@@ -176,6 +176,7 @@ hr {
 
 /*learn more button*/
 .about-button {
+   
     background-color: #000;
     color: #FFFFFF;
     font-size: 15px;
@@ -188,8 +189,9 @@ hr {
     cursor: pointer;
     display: inline-block;
     text-align: center;
-
 }
+
+
 
 button:hover {
     opacity: 0.7;
@@ -280,7 +282,7 @@ a:hover {
 .copyright {
     margin-top: 15px;
     padding: 10px;
-    color: #545454;
+    color: #999999;
     text-align: center;
     font-family: 'Lato', sans-serif;
 }
