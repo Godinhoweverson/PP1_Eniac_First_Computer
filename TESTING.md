@@ -19,3 +19,20 @@
   - No error.
 
   <img src="documentation/images/css-validator.jpg" alt="Validator CSS">
+
+  ### Lighthouse
+
+  ## Desktop
+
+  - Home Page
+
+    <img src="documentation/images/lighthouse-page-desktop.jpeg" alt="Home Page">
+
+  - About Page
+
+    <img src="documentation/images/lighthouse-about-desktop.jpeg" alt="Home Page">
+  
+  - Sign Up Page
+  
+    <img src="documentation/images/lighthouse-signup-desktop.jpeg" alt="Home Page">
+
