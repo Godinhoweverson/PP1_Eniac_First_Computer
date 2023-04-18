@@ -8,6 +8,7 @@
 }
 
 body {
+   min-height: 100vh;
     font-family: 'Lato', sans-serif;
     box-shadow: rgb(44, 62, 80) 15px 0px 15px -15px inset, rgb(44, 62, 80) -15px 0px 15px -15px inset;
 }
@@ -709,7 +710,7 @@ input[type="submit"] {
     }
 
 }
-/* Media query 480px */
+/* Media query 540px */
 @media screen and (max-width: 540px){
        /* nav menu */
        #logo {
@@ -998,6 +999,8 @@ input[type="submit"] {
     }
 
     /* fourth-container */
+
+  
 
     #fourth-container p {
         font-size: 14px;
