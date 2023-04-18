@@ -5,6 +5,7 @@
 ## W3C HTML Validator
 
 - HTML
+   - I have used <a href="https://validator.w3.org/" target="_blank">HTML W3C Validator.</a>
    - Error: The frameborder attribute on the iframe element is obsolete.
 
 <img src="documentation/images/error-html.jpeg" alt="Validator HTML">
@@ -12,3 +13,9 @@
    - Solved error: I used style="border:0;" instead of frameborder.
    
 <img src="documentation/images/no-error-html.jpg" alt="Validator HTML">
+
+- Css
+  - I have used <a href="https://jigsaw.w3.org/css-validator/" target="_blank">CSS Jigsaw Validator.</a>
+  - No error.
+
+  <img src="documentation/images/css-validator.jpg" alt="Validator CSS">
