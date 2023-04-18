@@ -571,9 +571,9 @@ input[type="submit"] {
 }
 
 
-/* Media query 800px */
+/* Media query 810px */
 
-@media screen and (max-width: 81git  0px) {
+@media screen and (max-width: 810px) {
 
     /*First container */
     #first-container {
