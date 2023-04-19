@@ -574,7 +574,7 @@ input[type="submit"] {
 
 /* Media query 810px */
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 820px) {
 
     /*First container */
     #first-container {
@@ -1008,8 +1008,8 @@ input[type="submit"] {
     }
 
     .right-video {
-        padding-left: 80px;
-        padding-right: 50px;
+        padding: 30px 80px 0 50px;
+      
     }
 
     iframe {
