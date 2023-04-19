@@ -40,4 +40,4 @@
    - I have used <a href="https://wave.webaim.org/" target="_blank">Wave.</a>
    - All pages tested no error found.
 
-   <img src="documentation/images/accessibility.jpeg" alt="Home Page" style=" width:100px height:100px>
+   <img src="documentation/images/accessibility.jpeg" alt="Home Page" style=" width:100px; height:100px;">
