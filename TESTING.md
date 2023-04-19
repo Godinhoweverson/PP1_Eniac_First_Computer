@@ -36,3 +36,8 @@
   
     <img src="documentation/images/lighthouse-signup-desktop.jpeg" alt="Home Page">
 
+### Accessibility
+   - I have used <a href="https://wave.webaim.org/" target="_blank">Wave.</a>
+   - All pages tested no error found.
+
+   <img src="documentation/images/accessibility.jpeg" alt="Home Page">
