@@ -65,7 +65,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | --- | --- |
 | Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
 | Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Desktop | ![screenshot](documentation/wireframes/home-desktop) |
 
 ### About Page Wireframes
 
@@ -73,7 +73,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | --- | --- |
 | Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
 | Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+| Desktop | ![screenshot](documentation/wireframes/about-desktop.jpeg) |
 
 ### Contact Page Wireframes
 
@@ -81,7 +81,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | --- | --- |
 | Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
 | Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/signup-desktop.jpeg) |
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
