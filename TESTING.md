@@ -25,28 +25,30 @@
   ## Desktop
 
   - Home Page
+  - No major issues.
 
     <img src="documentation/images/lighthouse-page-desktop.jpeg" alt="Home Page-desktop">
 
   - About Page
-
+  - No major issues.
     <img src="documentation/images/lighthouse-about-desktop.jpeg" alt="about Page-desktop">
   
   - Sign Up Page
+  - No major issues.
   
     <img src="documentation/images/lighthouse-signup-desktop.jpeg" alt="Sign up Page-desktop">
 
     ## Mobile
 
     - Home page
-
+    - No major issues.
     <img src="documentation/images/lighthouse-home-mobile.jpeg" alt="Home Page-mobile">
 
     - About page
 
 
     - Sign up page
-
+    - No major issues.
     <img src="documentation/images/lighthouse-signup-mobile.jpeg" alt="Sign up Page-mobile">
 
 ### Accessibility
