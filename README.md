@@ -47,13 +47,13 @@ I used <a href="https://coolors.co/000000-545454-999999-ffffff" target="_blank">
 
 ## Features
 
-The website is comprised of three pages, all accessible from the navigation menu (Home, About and Contact us). 
+The website is comprised of three pages, all accessible from the navigation menu (Home, About and Sign up). 
 
 ### Existing Features
 
 ## Navigation Bar
 
- - Navbar include links to the websites Home page, About page, Contact page and a Eniac logo.
+ - Navbar include links to the websites Home page, About page, Sign up page and a Eniac logo.
  - On left, Eniac logo when is select is will back to home page.
  - On right, there are three elements clearly state the content of each page.
 
@@ -190,9 +190,8 @@ You can fork this repository by using the following steps:
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/ navbar|
+| [W3Schools](https://www.w3schools.com/html/html_forms.asp) | sign up page | form and input element |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
 | [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | entire site | modern responsive layouts |
 
