@@ -37,7 +37,7 @@ This website provides information about the history and workings of ENIAC.</p>
 I used <a href="https://coolors.co/000000-545454-999999-ffffff" target="_blank">Coolors.co</a> to generate my colour palette.
 
 
-<img src="documentation/images/color-scheme.png" alt="Color scheme">
+<img src="documentation/images/color-scheme/color-scheme.png" alt="Color scheme">
 
 ### Typography
 
@@ -57,7 +57,7 @@ The website is comprised of three pages, all accessible from the navigation menu
  - On left, Eniac logo when is select is will back to home page.
  - On right, there are three elements clearly state the content of each page.
 
-<img src="documentation/images/nav-bar.jpg" alt="Nav-bar">
+<img src="documentation/images/features/nav-bar.jpg" alt="Nav-bar">
 
 ## Home Page
 
@@ -65,23 +65,23 @@ The main content of the home page is organized into sections, each with a headin
 
 The home page of the website features a title "ENIAC: The First General-Purpose Electronic Digital Computer" overlaid on top of it. 
 
-<img src="documentation/images/first-container.jpg" alt="title-ENIAC">
+<img src="documentation/images/features/first-container.jpg" alt="title-ENIAC">
 
 
 
 - This section there is a brief introduction to the website, which provides some background information about the ENIAC and its historical significance.
 
-<img src="documentation/images/introduction.jpg" alt="title-ENIAC">
+<img src="documentation/images/features/introduction.jpg" alt="title-ENIAC">
 
 
 
 -  This section below provide information about the specific goal the ENIAC was designed, includes an image and a button "READ MORE" that interact with ABOUT PAGE on the website.
 
-<img src="documentation/images/third-section.jpg" alt="Third-section">
+<img src="documentation/images/features/third-section.jpg" alt="Third-section">
 
 -  This section there are a video of University of Pennsylvania  and also a text explaining about ENIAC.
 
-<img src="documentation/images/fourth-section.jpg" alt="fourth-section">
+<img src="documentation/images/features/fourth-section.jpg" alt="fourth-section">
 
 ### Footer
 
@@ -89,7 +89,7 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 - Links to the main social media.
 
 
-<img src="documentation/images/footer.jpeg" alt="footer-section">
+<img src="documentation/images/features/footer.jpeg" alt="footer-section">
 </p>
 
 
@@ -99,17 +99,17 @@ The home page of the website features a title "ENIAC: The First General-Purpose 
 On the ABOUT PAGE we have an explanatory text about ENIAC followed by four images with descriptions.
 
 
-<img src="documentation/images/about.jpeg" alt="about-content">
+<img src="documentation/images/features/about.jpeg" alt="about-content">
 
-<img src="documentation/images/about-images.jpeg" alt="images-programers">
+<img src="documentation/images/features/about-images.jpeg" alt="images-programers">
 
-<img src="documentation/images/about-text.jpeg" alt="text">
+<img src="documentation/images/features/about-text.jpeg" alt="text">
 
 ### Sign up
 
 On Sign up page the users can subscribe to receive more history content.
 
-<img src="documentation/images/signup.jpeg" alt="text">
+<img src="documentation/images/features/signup.jpeg" alt="text">
 
 
   
