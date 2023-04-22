@@ -27,29 +27,32 @@
   - Home Page
   - No major issues.
 
-    <img src="documentation/images/lighthouse-page-desktop.jpeg" alt="Home Page-desktop" width="300px">
+    <img src="documentation/images/lighthouse-page-desktop.jpeg" alt="Home Page-desktop" width="500px">
 
   - About Page
   - No major issues.
-    <img src="documentation/images/lighthouse-about-desktop.jpeg" alt="about Page-desktop" width="300px">
+
+    <img src="documentation/images/lighthouse-about-desktop.jpeg" alt="about Page-desktop" width="500px">
   
   - Sign Up Page
   - No major issues.
   
-    <img src="documentation/images/lighthouse-signup-desktop.jpeg" alt="Sign up Page-desktop" width="300px">
+    <img src="documentation/images/lighthouse-signup-desktop.jpeg" alt="Sign up Page-desktop" width="500px">
 
     ## Mobile
 
     - Home page
     - No major issues.
-    <img src="documentation/images/lighthouse-home-mobile.jpeg" alt="Home Page-mobile" width="300px">
+
+    <img src="documentation/images/lighthouse-home-mobile.jpeg" alt="Home Page-mobile" width="500px">
 
     - About page
 
 
     - Sign up page
     - No major issues.
-    <img src="documentation/images/lighthouse-signup-mobile.jpeg" alt="Sign up Page-mobile" width="300px">
+
+    <img src="documentation/images/lighthouse-signup-mobile.jpeg" alt="Sign up Page-mobile" width="500px">
 
 ### Accessibility
    - I have used <a href="https://wave.webaim.org/" target="_blank">Wave.</a>
